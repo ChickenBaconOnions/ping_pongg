@@ -98,4 +98,5 @@ while not game_over:
     ball.draw()
     pygame.display.update()
     clock.tick(40)
-Python
+
+
